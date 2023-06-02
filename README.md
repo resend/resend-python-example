@@ -1,6 +1,6 @@
-# Resend with Example
+# Resend with Python
 
-This example shows how to use Resend with [Example](https://example.com).
+This example shows how to use Resend with [Python](https://www.python.org).
 
 ## Prerequisites
 
@@ -9,17 +9,19 @@ To get the most out of this guide, you’ll need to:
 * [Create an API key](https://resend.com/api-keys)
 * [Verify your domain](https://resend.com/domains)
 
+## Installation
+
+Get the [Resend Python SDK](https://github.com/resendlabs/resend-python).
+
+```sh
+pip install resend
+```
+
 ## Instructions
 
-1. Replace `re_123456789` on `example.ts` with your API key.
+1. Define the `RESEND_API_KEY` environment variable using your API key.
 
-2. Install dependencies:
-
-  ```sh
-TBD
-  ```
-
-3. Execute the following command:
+2. Execute the following command:
 
   ```sh
 TBD
