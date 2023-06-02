@@ -24,7 +24,7 @@ pip install resend
 2. Execute the following command:
 
   ```sh
-TBD
+python3 index.py
   ```
 
 ## License
