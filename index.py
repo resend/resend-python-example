@@ -4,7 +4,7 @@ import resend
 resend.api_key = os.environ["RESEND_API_KEY"]
 
 params = {
-    "from": "onboarding@resend.dev",
+    "from": "Acme <onboarding@resend.dev>",
     "to": ["delivered@resend.dev"],
     "subject": "Hello world",
     "html": "<strong>It works!</strong>"
