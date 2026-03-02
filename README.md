@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This repository has been consolidated into the new [resend-examples](https://github.com/resend/resend-examples) monorepo, which contains updated examples for all languages and frameworks.
+>
+> **[View the Python examples here](https://github.com/resend/resend-examples/tree/main/python-resend-examples)**
+
+---
+
+
 # Resend with Python
 
 This example shows how to use Resend with [Python](https://www.python.org).
